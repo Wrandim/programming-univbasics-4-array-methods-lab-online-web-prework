@@ -1,10 +1,12 @@
 
 $array = ["wow", "I", "am", "really", "learning", "arrays!"]
 def using_include(array, element)
+  element1 = "wow"
+  element2 = "Tardis"
   
-    using_include.include?( array, "wow")
+    using_include.include?(array , element1)
     
-   # using_include.include?( array, "Tardis")
+   #using_include.include?(array , element2)
 end
 
 def using_sort(array)
