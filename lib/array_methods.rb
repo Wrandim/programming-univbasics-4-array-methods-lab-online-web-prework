@@ -1,5 +1,5 @@
 
-$array = ["wow", "I", "am", "really", "learning", "arrays!"]
+array = ["wow", "I", "am", "really", "learning", "arrays!"]
 def using_include(array, element)
   element1 = "wow"
   element2 = "Tardis"
