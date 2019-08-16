@@ -3,11 +3,11 @@ $array = ["wow", "I", "am", "really", "learning", "arrays!"]
 def using_include(array, element)
   element1 = "wow"
   element2 = "Tardis"
-  
+end
     using_include.include?(array , element1)
     
    using_include.include?(array , element2)
-end
+
 
 def using_sort(array)
 
