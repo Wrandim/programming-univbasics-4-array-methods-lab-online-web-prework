@@ -5,9 +5,9 @@ def using_include(array, element)
   element1 = "wow"
   element2 = "Tardis"
 
-  using_include.include?(array , element1)
+  p using_include.include?(array , element1)
     
-  using_include.include?(array , element2)
+  p using_include.include?(array , element2)
 end
 
 def using_sort(array)
